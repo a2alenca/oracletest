@@ -1,7 +1,7 @@
 alert('"Bienvenida Rata".');
 alert('"Debes adivinar la palabra secreta".');
 let PalabraElegida = prompt("Que palabra eliges?");
-let Palabra = "raton";
+let Palabra = "vibora";
 
 console.log(PalabraElegida);
 
